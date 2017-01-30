@@ -310,6 +310,7 @@ msgstr "Страница поддержки и контактная информ
 msgid "We provide support only in English."
 msgstr "Мы предоставляем поддержку только на английской языке."
 
+#. Example: You can download is <a>here</a>
 msgid "here"
 msgstr "здесь"
 

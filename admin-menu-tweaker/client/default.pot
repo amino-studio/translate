@@ -268,6 +268,7 @@ msgstr ""
 msgid "We provide support only in English."
 msgstr ""
 
+#. Example: You can download is <a>here</a>
 msgid "here"
 msgstr ""
 

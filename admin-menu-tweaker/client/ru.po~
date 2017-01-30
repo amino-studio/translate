@@ -15,60 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.10.1\n"
 
-msgid "Activate your copy"
-msgstr "Активация"
-
-msgid "Do you really want to close activation window?"
-msgstr "Вы точно хотите закрыть окно активации?"
-
-msgid "Additional actions:"
-msgstr "Дополнительные действия:"
-
-msgid "CUSTOM MENU:"
-msgstr "СВОЁ МЕНЮ:"
-
-msgid "CUSTOM SEPARATOR"
-msgstr "СВОЙ РАЗДЕЛИТЕЛЬ"
-
-msgid "Content:"
-msgstr "Контент:"
-
-msgid "Custom page slug"
-msgstr "Нестандартное короткое имя"
-
-msgid "Do you really want to remove?"
-msgstr "Вы точно хотите удалить?"
-
-msgid "ELEMENT DESTINATION"
-msgstr "НАЗНАЧЕНИЕ ЭЛЕМЕНТА"
-
-msgid "HTML"
-msgstr "HTML"
-
-msgid "Menu"
-msgstr "Меню"
-
-msgid "Page URL will be:"
-msgstr "Ссылка страницы будет:"
-
-msgid "Remove element"
-msgstr "Удалить элемент"
-
-msgid "Select custom element type"
-msgstr "Выберите тип вашего элемента"
-
-msgid "Separator"
-msgstr "Разделитель"
-
-msgid "URL redirection"
-msgstr "URL перенаправление"
-
-msgid "URL:"
-msgstr "URL:"
-
-msgid "WordPress uses the slug to compose page URL."
-msgstr "WordPress использует короткое имя для составления ссылки страницы."
-
 msgid "Activation error."
 msgstr "Ошибка активации."
 
@@ -125,6 +71,60 @@ msgstr ""
 
 msgid "Your plugin copy is activated by your purchase code:"
 msgstr "Ваша копия активирована кодом:"
+
+msgid "Activate your copy"
+msgstr "Активация"
+
+msgid "Do you really want to close activation window?"
+msgstr "Вы точно хотите закрыть окно активации?"
+
+msgid "Additional actions:"
+msgstr "Дополнительные действия:"
+
+msgid "CUSTOM MENU:"
+msgstr "СВОЁ МЕНЮ:"
+
+msgid "CUSTOM SEPARATOR"
+msgstr "СВОЙ РАЗДЕЛИТЕЛЬ"
+
+msgid "Content:"
+msgstr "Контент:"
+
+msgid "Custom page slug"
+msgstr "Нестандартное короткое имя"
+
+msgid "Do you really want to remove?"
+msgstr "Вы точно хотите удалить?"
+
+msgid "ELEMENT DESTINATION"
+msgstr "НАЗНАЧЕНИЕ ЭЛЕМЕНТА"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Page URL will be:"
+msgstr "Ссылка страницы будет:"
+
+msgid "Remove element"
+msgstr "Удалить элемент"
+
+msgid "Select custom element type"
+msgstr "Выберите тип вашего элемента"
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "URL redirection"
+msgstr "URL перенаправление"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "WordPress uses the slug to compose page URL."
+msgstr "WordPress использует короткое имя для составления ссылки страницы."
 
 msgid "SELECTED MENU:"
 msgstr "Выбранное меню:"
@@ -219,15 +219,6 @@ msgstr "URL изображения"
 msgid "Upload image"
 msgstr "Загрузить"
 
-msgid "Hidden"
-msgstr "Скрыт"
-
-msgid "SELECTED SEPARATOR"
-msgstr "ВЫБРАННЫЙ РАЗДЕЛИТЕЛЬ"
-
-msgid "Filter:"
-msgstr "Фильтр:"
-
 msgid "Color:"
 msgstr "Цвет:"
 
@@ -239,6 +230,15 @@ msgstr "Вариант:"
 
 msgid "Width:"
 msgstr "Ширина:"
+
+msgid "Hidden"
+msgstr "Скрыт"
+
+msgid "SELECTED SEPARATOR"
+msgstr "ВЫБРАННЫЙ РАЗДЕЛИТЕЛЬ"
+
+msgid "Filter:"
+msgstr "Фильтр:"
 
 msgid "Export"
 msgstr "Экспорт"
@@ -255,6 +255,12 @@ msgstr "Введите данные и нажмите «Импорт»..."
 msgid "You need to save to apply import!"
 msgstr "Сохраните для применения импортированных данных!"
 
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+msgid "Support"
+msgstr "Поддержка"
+
 msgid "Do you want to reset all settings?"
 msgstr "Вы точно хотите сбросить все настройки?"
 
@@ -267,36 +273,16 @@ msgstr "Сохранить"
 msgid "Saving..."
 msgstr "Сохранение..."
 
-msgid "Import/Export"
-msgstr "Импорт/Экспорт"
-
-msgid "Support"
-msgstr "Поддержка"
-
+#. Example: Go to <a>Main page</a>
 msgid "Go to {mainPageLink}"
 msgstr "Перейти на {mainPageLink}"
 
+#. Example: Go to <a>Main page</a>
 msgid "Main page"
 msgstr "Главная страница"
 
 msgid "Page Not Found"
 msgstr "Страница не найдена"
-
-msgid "If you have any questions or suggestions, you can contact us any time."
-msgstr ""
-"Если у Вас есть любые вопросы или предложения, напишите нам в любое время."
-
-msgid "Support or Suggestion"
-msgstr "Поддержка или Предложение"
-
-msgid "Support page and contact information is {here}."
-msgstr "Страница поддержки и контактная информация {here}."
-
-msgid "We provide support only in English."
-msgstr "Мы предоставляем поддержку только на английской языке."
-
-msgid "here"
-msgstr "здесь"
 
 msgid "Global"
 msgstr "Общие"
@@ -310,16 +296,22 @@ msgstr "Пользователь:"
 msgid "Go back to Control Page"
 msgstr "Перейти назад на страницу настроек"
 
-msgid "Thank you for purchasing!"
-msgstr "Спасибо Вам за покупку!"
-
-msgid ""
-"We make our hard work to do your life with WordPress better.\n"
-"We are always close to you."
+msgid "If you have any questions or suggestions, you can contact us any time."
 msgstr ""
-"Мы делаем нашу тщательную работу, чтобы сделать Вашу жизнь с WordPress "
-"лучше.\n"
-"Мы всегда рядом с Вами."
+"Если у Вас есть любые вопросы или предложения, напишите нам в любое время."
+
+msgid "Support or Suggestion"
+msgstr "Поддержка или Предложение"
+
+#. Example: Support page and contact information is <a>here</a>
+msgid "Support page and contact information is {here}."
+msgstr "Страница поддержки и контактная информация {here}."
+
+msgid "We provide support only in English."
+msgstr "Мы предоставляем поддержку только на английской языке."
+
+msgid "here"
+msgstr "здесь"
 
 msgid ""
 "If you block an access to one \"customize.php\" menu item, all \"customize."
@@ -344,6 +336,17 @@ msgstr "Создать новый элемент"
 
 msgid "Expand all"
 msgstr "Развернуть все"
+
+msgid "Thank you for purchasing!"
+msgstr "Спасибо Вам за покупку!"
+
+msgid ""
+"We make our hard work to do your life with WordPress better.\n"
+"We are always close to you."
+msgstr ""
+"Мы делаем нашу тщательную работу, чтобы сделать Вашу жизнь с WordPress "
+"лучше.\n"
+"Мы всегда рядом с Вами."
 
 msgid "Loading error"
 msgstr "Ошибка загрузки"
