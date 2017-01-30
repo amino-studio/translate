@@ -6,12 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Activate your copy"
-msgstr ""
-
-msgid "Do you really want to close activation window?"
-msgstr ""
-
 msgid "Activation error."
 msgstr ""
 
@@ -27,25 +21,40 @@ msgstr ""
 msgid "Open Control Page"
 msgstr ""
 
-msgid "Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
-"Open text file in your favorite editor, insert your Purchase Code bellow and click \"Activate\"."
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
+#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+msgid ""
+"Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
+"select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
+"Open text file in your favorite editor, insert your Purchase Code bellow and "
+"click \"Activate\"."
 msgstr ""
 
 msgid "Please enter valid code!"
 msgstr ""
 
-msgid "You can use one purchase code only for one single product (domain name) and it will be linked to your domain name.\n"
-"Activation is not required for local domains and IP addresses (localhost, *.dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
+msgid ""
+"You can use one purchase code only for one single product (domain name) and "
+"it will be linked to your domain name.\n"
+"Activation is not required for local domains and IP addresses (localhost, *."
+"dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
 "If you have any problems or questions contact us."
 msgstr ""
 
 msgid "You copy is activated for this domain name!"
 msgstr ""
 
-msgid "You need to activate your plugin copy for automatic updates and support."
+msgid ""
+"You need to activate your plugin copy for automatic updates and support."
 msgstr ""
 
 msgid "Your plugin copy is activated by your purchase code:"
+msgstr ""
+
+msgid "Activate your copy"
+msgstr ""
+
+msgid "Do you really want to close activation window?"
 msgstr ""
 
 msgid "Additional actions:"
@@ -111,7 +120,9 @@ msgstr ""
 msgid "Icon class"
 msgstr ""
 
-msgid "If capability is available for user, he sees the element. This field is read-only. If you want to deny access, use firewall."
+msgid ""
+"If capability is available for user, he sees the element. This field is read-"
+"only. If you want to deny access, use firewall."
 msgstr ""
 
 msgid "Position"
@@ -123,31 +134,16 @@ msgstr ""
 msgid "The slug name"
 msgstr ""
 
-msgid "The slug name is read-only. If you want to make a page with another slug, you can create new page."
+msgid ""
+"The slug name is read-only. If you want to make a page with another slug, "
+"you can create new page."
 msgstr ""
 
 msgid "This field is read-only. It is shown for information purposes."
 msgstr ""
 
-msgid "You can define position manually or drag & drop elements in the left panel."
-msgstr ""
-
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
+msgid ""
+"You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
 msgid "ICON"
@@ -175,6 +171,24 @@ msgid "URL of image"
 msgstr ""
 
 msgid "Upload image"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
 msgstr ""
 
 msgid "Color:"
@@ -249,9 +263,6 @@ msgstr ""
 msgid "User:"
 msgstr ""
 
-msgid "Go back to Control Page"
-msgstr ""
-
 msgid "If you have any questions or suggestions, you can contact us any time."
 msgstr ""
 
@@ -267,7 +278,12 @@ msgstr ""
 msgid "here"
 msgstr ""
 
-msgid "If you block an access to one \"customize.php\" menu item, all \"customize.php\" pages will be blocked."
+msgid "Go back to Control Page"
+msgstr ""
+
+msgid ""
+"If you block an access to one \"customize.php\" menu item, all \"customize."
+"php\" pages will be blocked."
 msgstr ""
 
 msgid "Items have same URLs and WordPress can select these elements together!"
@@ -288,7 +304,8 @@ msgstr ""
 msgid "Thank you for purchasing!"
 msgstr ""
 
-msgid "We make our hard work to do your life with WordPress better.\n"
+msgid ""
+"We make our hard work to do your life with WordPress better.\n"
 "We are always close to you."
 msgstr ""
 
@@ -298,7 +315,9 @@ msgstr ""
 msgid "Please, try one more time!"
 msgstr ""
 
-msgid "Error, Please try reload page and write to support@amino-studio.com, we will help you."
+msgid ""
+"Error, Please try reload page and write to support@amino-studio.com, we will "
+"help you."
 msgstr ""
 
 msgid "Please save settings!"

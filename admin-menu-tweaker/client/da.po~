@@ -1,7 +1,7 @@
 # Translation of WordPress Plugin
 msgid ""
 msgstr ""
-"Language: nl\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,8 +21,7 @@ msgstr ""
 msgid "Open Control Page"
 msgstr ""
 
-#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
-#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
 msgid ""
 "Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
 "select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
@@ -146,6 +145,24 @@ msgid ""
 "You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
 msgid "ICON"
 msgstr ""
 
@@ -171,24 +188,6 @@ msgid "URL of image"
 msgstr ""
 
 msgid "Upload image"
-msgstr ""
-
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
 msgstr ""
 
 msgid "Color:"
@@ -233,6 +232,15 @@ msgstr ""
 msgid "Support"
 msgstr ""
 
+msgid "Go to {mainPageLink}"
+msgstr ""
+
+msgid "Main page"
+msgstr ""
+
+msgid "Page Not Found"
+msgstr ""
+
 msgid "Do you want to reset all settings?"
 msgstr ""
 
@@ -245,15 +253,6 @@ msgstr ""
 msgid "Saving..."
 msgstr ""
 
-msgid "Go to {mainPageLink}"
-msgstr ""
-
-msgid "Main page"
-msgstr ""
-
-msgid "Page Not Found"
-msgstr ""
-
 msgid "Global"
 msgstr ""
 
@@ -261,6 +260,9 @@ msgid "Role:"
 msgstr ""
 
 msgid "User:"
+msgstr ""
+
+msgid "Go back to Control Page"
 msgstr ""
 
 msgid "If you have any questions or suggestions, you can contact us any time."
@@ -276,9 +278,6 @@ msgid "We provide support only in English."
 msgstr ""
 
 msgid "here"
-msgstr ""
-
-msgid "Go back to Control Page"
 msgstr ""
 
 msgid ""
