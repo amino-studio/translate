@@ -6,51 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Activation error."
-msgstr ""
-
-msgid "Downloads page"
-msgstr ""
-
-msgid "Enter your Purchase code and press 'Activate'..."
-msgstr ""
-
-msgid "Error. Please, try later."
-msgstr ""
-
-msgid "Open Control Page"
-msgstr ""
-
-#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
-#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
-msgid ""
-"Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
-"select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
-"Open text file in your favorite editor, insert your Purchase Code bellow and "
-"click \"Activate\"."
-msgstr ""
-
-msgid "Please enter valid code!"
-msgstr ""
-
-msgid ""
-"You can use one purchase code only for one single product (domain name) and "
-"it will be linked to your domain name.\n"
-"Activation is not required for local domains and IP addresses (localhost, *."
-"dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
-"If you have any problems or questions contact us."
-msgstr ""
-
-msgid "You copy is activated for this domain name!"
-msgstr ""
-
-msgid ""
-"You need to activate your plugin copy for automatic updates and support."
-msgstr ""
-
-msgid "Your plugin copy is activated by your purchase code:"
-msgstr ""
-
 msgid "Activate your copy"
 msgstr ""
 
@@ -103,6 +58,51 @@ msgid "URL:"
 msgstr ""
 
 msgid "WordPress uses the slug to compose page URL."
+msgstr ""
+
+msgid "Activation error."
+msgstr ""
+
+msgid "Downloads page"
+msgstr ""
+
+msgid "Enter your Purchase code and press 'Activate'..."
+msgstr ""
+
+msgid "Error. Please, try later."
+msgstr ""
+
+msgid "Open Control Page"
+msgstr ""
+
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
+#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+msgid ""
+"Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
+"select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
+"Open text file in your favorite editor, insert your Purchase Code bellow and "
+"click \"Activate\"."
+msgstr ""
+
+msgid "Please enter valid code!"
+msgstr ""
+
+msgid ""
+"You can use one purchase code only for one single product (domain name) and "
+"it will be linked to your domain name.\n"
+"Activation is not required for local domains and IP addresses (localhost, *."
+"dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
+"If you have any problems or questions contact us."
+msgstr ""
+
+msgid "You copy is activated for this domain name!"
+msgstr ""
+
+msgid ""
+"You need to activate your plugin copy for automatic updates and support."
+msgstr ""
+
+msgid "Your plugin copy is activated by your purchase code:"
 msgstr ""
 
 msgid "SELECTED MENU:"
@@ -191,6 +191,15 @@ msgstr ""
 msgid "Upload image"
 msgstr ""
 
+msgid "Hidden"
+msgstr ""
+
+msgid "SELECTED SEPARATOR"
+msgstr ""
+
+msgid "Filter:"
+msgstr ""
+
 msgid "Color:"
 msgstr ""
 
@@ -201,15 +210,6 @@ msgid "Style:"
 msgstr ""
 
 msgid "Width:"
-msgstr ""
-
-msgid "Hidden"
-msgstr ""
-
-msgid "SELECTED SEPARATOR"
-msgstr ""
-
-msgid "Filter:"
 msgstr ""
 
 msgid "Export"
@@ -227,12 +227,6 @@ msgstr ""
 msgid "You need to save to apply import!"
 msgstr ""
 
-msgid "Import/Export"
-msgstr ""
-
-msgid "Support"
-msgstr ""
-
 msgid "Do you want to reset all settings?"
 msgstr ""
 
@@ -245,6 +239,12 @@ msgstr ""
 msgid "Saving..."
 msgstr ""
 
+msgid "Import/Export"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
 msgid "Go to {mainPageLink}"
 msgstr ""
 
@@ -252,18 +252,6 @@ msgid "Main page"
 msgstr ""
 
 msgid "Page Not Found"
-msgstr ""
-
-msgid "Global"
-msgstr ""
-
-msgid "Role:"
-msgstr ""
-
-msgid "User:"
-msgstr ""
-
-msgid "Go back to Control Page"
 msgstr ""
 
 msgid "If you have any questions or suggestions, you can contact us any time."
@@ -279,6 +267,26 @@ msgid "We provide support only in English."
 msgstr ""
 
 msgid "here"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Role:"
+msgstr ""
+
+msgid "User:"
+msgstr ""
+
+msgid "Go back to Control Page"
+msgstr ""
+
+msgid "Thank you for purchasing!"
+msgstr ""
+
+msgid ""
+"We make our hard work to do your life with WordPress better.\n"
+"We are always close to you."
 msgstr ""
 
 msgid ""
@@ -299,14 +307,6 @@ msgid "Create new element"
 msgstr ""
 
 msgid "Expand all"
-msgstr ""
-
-msgid "Thank you for purchasing!"
-msgstr ""
-
-msgid ""
-"We make our hard work to do your life with WordPress better.\n"
-"We are always close to you."
 msgstr ""
 
 msgid "Loading error"
