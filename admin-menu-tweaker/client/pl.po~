@@ -6,6 +6,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Activate your copy"
+msgstr ""
+
+msgid "Do you really want to close activation window?"
+msgstr ""
+
 msgid "Activation error."
 msgstr ""
 
@@ -21,7 +27,8 @@ msgstr ""
 msgid "Open Control Page"
 msgstr ""
 
-#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
+#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
 msgid ""
 "Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
 "select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
@@ -48,12 +55,6 @@ msgid ""
 msgstr ""
 
 msgid "Your plugin copy is activated by your purchase code:"
-msgstr ""
-
-msgid "Activate your copy"
-msgstr ""
-
-msgid "Do you really want to close activation window?"
 msgstr ""
 
 msgid "Additional actions:"
@@ -232,15 +233,6 @@ msgstr ""
 msgid "Support"
 msgstr ""
 
-msgid "Go to {mainPageLink}"
-msgstr ""
-
-msgid "Main page"
-msgstr ""
-
-msgid "Page Not Found"
-msgstr ""
-
 msgid "Do you want to reset all settings?"
 msgstr ""
 
@@ -251,6 +243,15 @@ msgid "Save Changes"
 msgstr ""
 
 msgid "Saving..."
+msgstr ""
+
+msgid "Go to {mainPageLink}"
+msgstr ""
+
+msgid "Main page"
+msgstr ""
+
+msgid "Page Not Found"
 msgstr ""
 
 msgid "Global"

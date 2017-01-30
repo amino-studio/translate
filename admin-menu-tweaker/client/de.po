@@ -146,6 +146,24 @@ msgid ""
 "You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
 msgid "ICON"
 msgstr ""
 
@@ -171,24 +189,6 @@ msgid "URL of image"
 msgstr ""
 
 msgid "Upload image"
-msgstr ""
-
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
 msgstr ""
 
 msgid "Color:"
@@ -263,6 +263,9 @@ msgstr ""
 msgid "User:"
 msgstr ""
 
+msgid "Go back to Control Page"
+msgstr ""
+
 msgid "If you have any questions or suggestions, you can contact us any time."
 msgstr ""
 
@@ -276,9 +279,6 @@ msgid "We provide support only in English."
 msgstr ""
 
 msgid "here"
-msgstr ""
-
-msgid "Go back to Control Page"
 msgstr ""
 
 msgid ""
