@@ -15,12 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.10.1\n"
 
-msgid "Activate your copy"
-msgstr "Активация"
-
-msgid "Do you really want to close activation window?"
-msgstr "Вы точно хотите закрыть окно активации?"
-
 msgid "Activation error."
 msgstr "Ошибка активации."
 
@@ -77,6 +71,12 @@ msgstr ""
 
 msgid "Your plugin copy is activated by your purchase code:"
 msgstr "Ваша копия активирована кодом:"
+
+msgid "Activate your copy"
+msgstr "Активация"
+
+msgid "Do you really want to close activation window?"
+msgstr "Вы точно хотите закрыть окно активации?"
 
 msgid "Additional actions:"
 msgstr "Дополнительные действия:"

@@ -6,12 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Activate your copy"
-msgstr ""
-
-msgid "Do you really want to close activation window?"
-msgstr ""
-
 msgid "Activation error."
 msgstr ""
 
@@ -55,6 +49,12 @@ msgid ""
 msgstr ""
 
 msgid "Your plugin copy is activated by your purchase code:"
+msgstr ""
+
+msgid "Activate your copy"
+msgstr ""
+
+msgid "Do you really want to close activation window?"
 msgstr ""
 
 msgid "Additional actions:"
