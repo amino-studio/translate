@@ -100,6 +100,51 @@ msgstr ""
 msgid "SELECTED MENU:"
 msgstr ""
 
+msgid "ICON"
+msgstr ""
+
+msgid "Icons library"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Please, enter url of your image..."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select icon"
+msgstr ""
+
+msgid "Select image from Media"
+msgstr ""
+
+msgid "URL of image"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
 msgid "ADVANCED"
 msgstr ""
 
@@ -133,24 +178,6 @@ msgstr ""
 msgid "You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
-msgstr ""
-
 msgid "Color:"
 msgstr ""
 
@@ -163,40 +190,13 @@ msgstr ""
 msgid "Width:"
 msgstr ""
 
-msgid "ICON"
-msgstr ""
-
-msgid "Icons library"
-msgstr ""
-
-msgid "Image"
-msgstr ""
-
-msgid "Please, enter url of your image..."
-msgstr ""
-
-msgid "Select"
-msgstr ""
-
-msgid "Select icon"
-msgstr ""
-
-msgid "Select image from Media"
-msgstr ""
-
-msgid "URL of image"
-msgstr ""
-
-msgid "Upload image"
+msgid "Filter:"
 msgstr ""
 
 msgid "Hidden"
 msgstr ""
 
 msgid "SELECTED SEPARATOR"
-msgstr ""
-
-msgid "Filter:"
 msgstr ""
 
 msgid "Export"
@@ -272,18 +272,6 @@ msgstr ""
 msgid "here"
 msgstr ""
 
-msgid "If you block an access to one \"customize.php\" menu item, all \"customize.php\" pages will be blocked."
-msgstr ""
-
-msgid "Items have same URLs and WordPress can select these elements together!"
-msgstr ""
-
-msgid "separator"
-msgstr ""
-
-msgid "\"If selected role or user does not have some menu capabilities, menu will be hidden. <br/>Some plugins show menu items runtime and we can't detect visibility.\""
-msgstr ""
-
 msgid "All items are visible"
 msgstr ""
 
@@ -296,7 +284,19 @@ msgstr ""
 msgid "Expand all"
 msgstr ""
 
+msgid "If selected role or user does not have some menu capabilities, menu will be hidden. <br/>Some plugins show menu items runtime and we can't detect visibility."
+msgstr ""
+
 msgid "Some items are hidden"
+msgstr ""
+
+msgid "If you block an access to one \"customize.php\" menu item, all \"customize.php\" pages will be blocked."
+msgstr ""
+
+msgid "Items have same URLs and WordPress can select these elements together!"
+msgstr ""
+
+msgid "separator"
 msgstr ""
 
 msgid "Thank you for purchasing!"

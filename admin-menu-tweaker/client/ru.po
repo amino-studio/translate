@@ -129,6 +129,51 @@ msgstr "WordPress использует короткое имя для соста
 msgid "SELECTED MENU:"
 msgstr "Выбранное меню:"
 
+msgid "ICON"
+msgstr "ИКОНКА"
+
+msgid "Icons library"
+msgstr "Библиотека иконок"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Please, enter url of your image..."
+msgstr "Пожалуйста, введите ссылку изображения..."
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select icon"
+msgstr "Выбор иконки"
+
+msgid "Select image from Media"
+msgstr "Выбрать изображение из Галереи"
+
+msgid "URL of image"
+msgstr "URL изображения"
+
+msgid "Upload image"
+msgstr "Загрузить"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "Hidden and access is available by URL"
+msgstr "Скрыт, но доступен по ссылке"
+
+msgid "Hidden and access is denied"
+msgstr "Скрыт и доступ ограничен"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Visible"
+msgstr "Виден"
+
 msgid "ADVANCED"
 msgstr "РАСШИРЕННЫЕ"
 
@@ -174,24 +219,6 @@ msgstr ""
 "Вы можете задать позицию вручную или использовать перетаскивания элементов в "
 "левой части."
 
-msgid "Firewall"
-msgstr "Firewall"
-
-msgid "General"
-msgstr "Основные"
-
-msgid "Hidden and access is available by URL"
-msgstr "Скрыт, но доступен по ссылке"
-
-msgid "Hidden and access is denied"
-msgstr "Скрыт и доступ ограничен"
-
-msgid "Name"
-msgstr "Имя"
-
-msgid "Visible"
-msgstr "Виден"
-
 msgid "Color:"
 msgstr "Цвет:"
 
@@ -204,41 +231,14 @@ msgstr "Вариант:"
 msgid "Width:"
 msgstr "Ширина:"
 
-msgid "ICON"
-msgstr "ИКОНКА"
-
-msgid "Icons library"
-msgstr "Библиотека иконок"
-
-msgid "Image"
-msgstr "Изображение"
-
-msgid "Please, enter url of your image..."
-msgstr "Пожалуйста, введите ссылку изображения..."
-
-msgid "Select"
-msgstr "Выбрать"
-
-msgid "Select icon"
-msgstr "Выбор иконки"
-
-msgid "Select image from Media"
-msgstr "Выбрать изображение из Галереи"
-
-msgid "URL of image"
-msgstr "URL изображения"
-
-msgid "Upload image"
-msgstr "Загрузить"
+msgid "Filter:"
+msgstr "Фильтр:"
 
 msgid "Hidden"
 msgstr "Скрыт"
 
 msgid "SELECTED SEPARATOR"
 msgstr "ВЫБРАННЫЙ РАЗДЕЛИТЕЛЬ"
-
-msgid "Filter:"
-msgstr "Фильтр:"
 
 msgid "Export"
 msgstr "Экспорт"
@@ -314,27 +314,6 @@ msgstr "Мы предоставляем поддержку только на а�
 msgid "here"
 msgstr "здесь"
 
-msgid ""
-"If you block an access to one \"customize.php\" menu item, all \"customize."
-"php\" pages will be blocked."
-msgstr ""
-"Если Вы заблокируете доступ к одному элементу «customize.php», то все "
-"элементы меню ведущие на «customize.php» будут заблокированы."
-
-msgid "Items have same URLs and WordPress can select these elements together!"
-msgstr ""
-"Элементы с одинаковыми ссылками и WordPress может подсветить эти элементы "
-"одновременно!"
-
-msgid "separator"
-msgstr "разделитель"
-
-msgid ""
-"\"If selected role or user does not have some menu capabilities, menu will "
-"be hidden. <br/>Some plugins show menu items runtime and we can't detect "
-"visibility.\""
-msgstr ""
-
 #, fuzzy
 #| msgid "Item visible"
 msgid "All items are visible"
@@ -349,8 +328,29 @@ msgstr "Создать новый элемент"
 msgid "Expand all"
 msgstr "Развернуть все"
 
+msgid ""
+"If selected role or user does not have some menu capabilities, menu will be "
+"hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility."
+msgstr ""
+
 msgid "Some items are hidden"
 msgstr ""
+
+msgid ""
+"If you block an access to one \"customize.php\" menu item, all \"customize."
+"php\" pages will be blocked."
+msgstr ""
+"Если Вы заблокируете доступ к одному элементу «customize.php», то все "
+"элементы меню ведущие на «customize.php» будут заблокированы."
+
+msgid "Items have same URLs and WordPress can select these elements together!"
+msgstr ""
+"Элементы с одинаковыми ссылками и WordPress может подсветить эти элементы "
+"одновременно!"
+
+msgid "separator"
+msgstr "разделитель"
 
 msgid "Thank you for purchasing!"
 msgstr "Спасибо Вам за покупку!"
