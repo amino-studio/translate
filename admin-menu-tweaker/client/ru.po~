@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-29 03:16+0000\n"
-"PO-Revision-Date: 2017-01-29 09:53+0000\n"
+"PO-Revision-Date: 2017-02-01 02:15+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Russian <http://example.com/projects/admin-menu-tweaker/"
-"client/ru/>\n"
-"Language: ru_RU\n"
+"Language-Team: Russian <http://translate.amino-studio.com/projects/admin-"
+"menu-tweaker/client/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.10.1\n"
 
 msgid "Activation error."
@@ -129,6 +129,51 @@ msgstr "WordPress использует короткое имя для соста
 msgid "SELECTED MENU:"
 msgstr "Выбранное меню:"
 
+msgid "ICON"
+msgstr "ИКОНКА"
+
+msgid "Icons library"
+msgstr "Библиотека иконок"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Please, enter url of your image..."
+msgstr "Пожалуйста, введите ссылку изображения..."
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select icon"
+msgstr "Выбор иконки"
+
+msgid "Select image from Media"
+msgstr "Выбрать изображение из Галереи"
+
+msgid "URL of image"
+msgstr "URL изображения"
+
+msgid "Upload image"
+msgstr "Загрузить"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "Hidden and access is available by URL"
+msgstr "Скрыт, но доступен по ссылке"
+
+msgid "Hidden and access is denied"
+msgstr "Скрыт и доступ ограничен"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Visible"
+msgstr "Виден"
+
 msgid "ADVANCED"
 msgstr "РАСШИРЕННЫЕ"
 
@@ -174,24 +219,6 @@ msgstr ""
 "Вы можете задать позицию вручную или использовать перетаскивания элементов в "
 "левой части."
 
-msgid "Firewall"
-msgstr "Firewall"
-
-msgid "General"
-msgstr "Основные"
-
-msgid "Hidden and access is available by URL"
-msgstr "Скрыт, но доступен по ссылке"
-
-msgid "Hidden and access is denied"
-msgstr "Скрыт и доступ ограничен"
-
-msgid "Name"
-msgstr "Имя"
-
-msgid "Visible"
-msgstr "Виден"
-
 msgid "Color:"
 msgstr "Цвет:"
 
@@ -204,41 +231,14 @@ msgstr "Вариант:"
 msgid "Width:"
 msgstr "Ширина:"
 
-msgid "ICON"
-msgstr "ИКОНКА"
-
-msgid "Icons library"
-msgstr "Библиотека иконок"
-
-msgid "Image"
-msgstr "Изображение"
-
-msgid "Please, enter url of your image..."
-msgstr "Пожалуйста, введите ссылку изображения..."
-
-msgid "Select"
-msgstr "Выбрать"
-
-msgid "Select icon"
-msgstr "Выбор иконки"
-
-msgid "Select image from Media"
-msgstr "Выбрать изображение из Галереи"
-
-msgid "URL of image"
-msgstr "URL изображения"
-
-msgid "Upload image"
-msgstr "Загрузить"
+msgid "Filter:"
+msgstr "Фильтр:"
 
 msgid "Hidden"
 msgstr "Скрыт"
 
 msgid "SELECTED SEPARATOR"
 msgstr "ВЫБРАННЫЙ РАЗДЕЛИТЕЛЬ"
-
-msgid "Filter:"
-msgstr "Фильтр:"
 
 msgid "Export"
 msgstr "Экспорт"
@@ -314,6 +314,30 @@ msgstr "Мы предоставляем поддержку только на а�
 msgid "here"
 msgstr "здесь"
 
+msgid "All items are visible"
+msgstr "Все элементы видны"
+
+msgid "Collapse all"
+msgstr "Свернуть все"
+
+msgid "Create new element"
+msgstr "Создать новый элемент"
+
+msgid "Expand all"
+msgstr "Развернуть все"
+
+msgid ""
+"If selected role or user does not have some menu capabilities, menu will be "
+"hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility."
+msgstr ""
+"Меню будет скрыто, если выбранная роль или пользователь не имеют некоторых "
+"возможностей. <br/>Некоторые плагины показывают элементы меню во врем "
+"выполнения и мы не можем определить видимость."
+
+msgid "Some items are hidden"
+msgstr "Некоторые элементы скрыты"
+
 msgid ""
 "If you block an access to one \"customize.php\" menu item, all \"customize."
 "php\" pages will be blocked."
@@ -328,29 +352,6 @@ msgstr ""
 
 msgid "separator"
 msgstr "разделитель"
-
-msgid ""
-"\"If selected role or user does not have some menu capabilities, menu will "
-"be hidden. <br/>Some plugins show menu items runtime and we can't detect "
-"visibility.\""
-msgstr ""
-
-#, fuzzy
-#| msgid "Item visible"
-msgid "All items are visible"
-msgstr "Виден"
-
-msgid "Collapse all"
-msgstr "Свернуть все"
-
-msgid "Create new element"
-msgstr "Создать новый элемент"
-
-msgid "Expand all"
-msgstr "Развернуть все"
-
-msgid "Some items are hidden"
-msgstr ""
 
 msgid "Thank you for purchasing!"
 msgstr "Спасибо Вам за покупку!"

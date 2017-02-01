@@ -12,6 +12,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 2.10.1\n"
 
+msgid "Activate your copy"
+msgstr "Activez votre copie"
+
+msgid "Do you really want to close activation window?"
+msgstr "Voulez vous vraiment fermer la fenêtre d'activation?"
+
 msgid "Activation error."
 msgstr "Erreur d'activation"
 
@@ -69,12 +75,6 @@ msgstr ""
 msgid "Your plugin copy is activated by your purchase code:"
 msgstr "La copie de votre plugin est activée par votre code d'achat :"
 
-msgid "Activate your copy"
-msgstr "Activez votre copie"
-
-msgid "Do you really want to close activation window?"
-msgstr "Voulez vous vraiment fermer la fenêtre d'activation?"
-
 msgid "Additional actions:"
 msgstr "Actions supplémentaires:"
 
@@ -126,51 +126,6 @@ msgstr ""
 msgid "SELECTED MENU:"
 msgstr ""
 
-msgid "ICON"
-msgstr ""
-
-msgid "Icons library"
-msgstr ""
-
-msgid "Image"
-msgstr ""
-
-msgid "Please, enter url of your image..."
-msgstr ""
-
-msgid "Select"
-msgstr ""
-
-msgid "Select icon"
-msgstr ""
-
-msgid "Select image from Media"
-msgstr ""
-
-msgid "URL of image"
-msgstr ""
-
-msgid "Upload image"
-msgstr ""
-
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
-msgstr ""
-
 msgid "ADVANCED"
 msgstr ""
 
@@ -209,6 +164,33 @@ msgid ""
 "You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
+msgid "ICON"
+msgstr ""
+
+msgid "Icons library"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Please, enter url of your image..."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select icon"
+msgstr ""
+
+msgid "Select image from Media"
+msgstr ""
+
+msgid "URL of image"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
 msgid "Color:"
 msgstr ""
 
@@ -222,6 +204,24 @@ msgid "Width:"
 msgstr ""
 
 msgid "Filter:"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
 msgstr ""
 
 msgid "Hidden"
@@ -263,6 +263,15 @@ msgstr ""
 msgid "Saving..."
 msgstr ""
 
+msgid "Global"
+msgstr ""
+
+msgid "Role:"
+msgstr ""
+
+msgid "User:"
+msgstr ""
+
 #. Example: Go to <a>Main page</a>
 msgid "Go to {mainPageLink}"
 msgstr ""
@@ -272,15 +281,6 @@ msgid "Main page"
 msgstr ""
 
 msgid "Page Not Found"
-msgstr ""
-
-msgid "Global"
-msgstr ""
-
-msgid "Role:"
-msgstr ""
-
-msgid "User:"
 msgstr ""
 
 msgid "Go back to Control Page"
@@ -315,10 +315,18 @@ msgstr ""
 msgid "Expand all"
 msgstr ""
 
+#. All items are visible (<a>Hide them</>)
+msgid "Hide them"
+msgstr ""
+
 msgid ""
 "If selected role or user does not have some menu capabilities, menu will be "
 "hidden. <br/>Some plugins show menu items runtime and we can't detect "
 "visibility."
+msgstr ""
+
+#. Some items are hidden (<a>Show all</>)
+msgid "Show all"
 msgstr ""
 
 msgid "Some items are hidden"

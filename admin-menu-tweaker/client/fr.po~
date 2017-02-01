@@ -1,25 +1,31 @@
 # Translation of WordPress Plugin
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2017-02-01 00:59+0000\n"
+"Last-Translator: youness.tayer@gmail.com <youness.tayer@gmail.com>\n"
+"Language-Team: French <http://translate.amino-studio.com/projects/admin-menu-"
+"tweaker/client/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.10.1\n"
 
 msgid "Activation error."
-msgstr ""
+msgstr "Erreur d'activation"
 
 msgid "Downloads page"
-msgstr ""
+msgstr "Page de téléchargements"
 
 msgid "Enter your Purchase code and press 'Activate'..."
-msgstr ""
+msgstr "Entrez votre code d'achat et preser 'Activer'..."
 
 msgid "Error. Please, try later."
-msgstr ""
+msgstr "Erreur. Merci d'essayer plus tard."
 
 msgid "Open Control Page"
-msgstr ""
+msgstr "Ouvrir la page de contrôle"
 
 #. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
 #. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
@@ -29,9 +35,14 @@ msgid ""
 "Open text file in your favorite editor, insert your Purchase Code bellow and "
 "click \"Activate\"."
 msgstr ""
+"Ouvrez votre page de téléchargement CodeCanyon {downloads} et cliquez sur le "
+"bouton \"Downloads\", en suite sélectionnez  \"License certificate & "
+"purchase code (text)\" dans le sous-menu.\n"
+"Ouvrez le fichier texte dans votre éditeur préféré, insérez votre code "
+"d'achat ci-dessous et cliquez sur \"Activer\"."
 
 msgid "Please enter valid code!"
-msgstr ""
+msgstr "Merci de saisir un code valide"
 
 msgid ""
 "You can use one purchase code only for one single product (domain name) and "
@@ -40,25 +51,32 @@ msgid ""
 "dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
 "If you have any problems or questions contact us."
 msgstr ""
+"Vous pouvez utiliser un code d'achat uniquement pour un seul produit (nom de "
+"domaine) et il sera associé à votre nom de domaine.\n"
+"L'activation n'est pas nécessaire pour les domaines locaux et les adresses "
+"IP (localhost, * .dev, * .local, 127.0.0.1, 172.16.0.1, 192.168.0.1, etc.).\n"
+"Si vous avez des problèmes ou des questions contactez-nous."
 
 msgid "You copy is activated for this domain name!"
-msgstr ""
+msgstr "Votre copie a été activée pour ce nom de domaine!"
 
 msgid ""
 "You need to activate your plugin copy for automatic updates and support."
 msgstr ""
+"Vous devez activer la copie de votre plugin pour les msies à jour "
+"automatiques et du support."
 
 msgid "Your plugin copy is activated by your purchase code:"
-msgstr ""
+msgstr "La copie de votre plugin est activée par votre code d'achat :"
 
 msgid "Activate your copy"
-msgstr ""
+msgstr "Activez votre copie"
 
 msgid "Do you really want to close activation window?"
-msgstr ""
+msgstr "Voulez vous vraiment fermer la fenêtre d'activation?"
 
 msgid "Additional actions:"
-msgstr ""
+msgstr "Actions supplémentaires:"
 
 msgid "CUSTOM MENU:"
 msgstr ""
@@ -108,6 +126,51 @@ msgstr ""
 msgid "SELECTED MENU:"
 msgstr ""
 
+msgid "ICON"
+msgstr ""
+
+msgid "Icons library"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Please, enter url of your image..."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select icon"
+msgstr ""
+
+msgid "Select image from Media"
+msgstr ""
+
+msgid "URL of image"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
 msgid "ADVANCED"
 msgstr ""
 
@@ -146,24 +209,6 @@ msgid ""
 "You can define position manually or drag & drop elements in the left panel."
 msgstr ""
 
-msgid "Firewall"
-msgstr ""
-
-msgid "General"
-msgstr ""
-
-msgid "Hidden and access is available by URL"
-msgstr ""
-
-msgid "Hidden and access is denied"
-msgstr ""
-
-msgid "Name"
-msgstr ""
-
-msgid "Visible"
-msgstr ""
-
 msgid "Color:"
 msgstr ""
 
@@ -176,40 +221,13 @@ msgstr ""
 msgid "Width:"
 msgstr ""
 
-msgid "ICON"
-msgstr ""
-
-msgid "Icons library"
-msgstr ""
-
-msgid "Image"
-msgstr ""
-
-msgid "Please, enter url of your image..."
-msgstr ""
-
-msgid "Select"
-msgstr ""
-
-msgid "Select icon"
-msgstr ""
-
-msgid "Select image from Media"
-msgstr ""
-
-msgid "URL of image"
-msgstr ""
-
-msgid "Upload image"
+msgid "Filter:"
 msgstr ""
 
 msgid "Hidden"
 msgstr ""
 
 msgid "SELECTED SEPARATOR"
-msgstr ""
-
-msgid "Filter:"
 msgstr ""
 
 msgid "Export"
@@ -285,23 +303,6 @@ msgstr ""
 msgid "here"
 msgstr ""
 
-msgid ""
-"If you block an access to one \"customize.php\" menu item, all \"customize."
-"php\" pages will be blocked."
-msgstr ""
-
-msgid "Items have same URLs and WordPress can select these elements together!"
-msgstr ""
-
-msgid "separator"
-msgstr ""
-
-msgid ""
-"\"If selected role or user does not have some menu capabilities, menu will "
-"be hidden. <br/>Some plugins show menu items runtime and we can't detect "
-"visibility.\""
-msgstr ""
-
 msgid "All items are visible"
 msgstr ""
 
@@ -314,7 +315,24 @@ msgstr ""
 msgid "Expand all"
 msgstr ""
 
+msgid ""
+"If selected role or user does not have some menu capabilities, menu will be "
+"hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility."
+msgstr ""
+
 msgid "Some items are hidden"
+msgstr ""
+
+msgid ""
+"If you block an access to one \"customize.php\" menu item, all \"customize."
+"php\" pages will be blocked."
+msgstr ""
+
+msgid "Items have same URLs and WordPress can select these elements together!"
+msgstr ""
+
+msgid "separator"
 msgstr ""
 
 msgid "Thank you for purchasing!"
