@@ -192,6 +192,18 @@ msgstr "Имя"
 msgid "Visible"
 msgstr "Виден"
 
+msgid "Color:"
+msgstr "Цвет:"
+
+msgid "Design"
+msgstr "Стиль"
+
+msgid "Style:"
+msgstr "Вариант:"
+
+msgid "Width:"
+msgstr "Ширина:"
+
 msgid "ICON"
 msgstr "ИКОНКА"
 
@@ -218,18 +230,6 @@ msgstr "URL изображения"
 
 msgid "Upload image"
 msgstr "Загрузить"
-
-msgid "Color:"
-msgstr "Цвет:"
-
-msgid "Design"
-msgstr "Стиль"
-
-msgid "Style:"
-msgstr "Вариант:"
-
-msgid "Width:"
-msgstr "Ширина:"
 
 msgid "Hidden"
 msgstr "Скрыт"
@@ -310,6 +310,7 @@ msgstr "Страница поддержки и контактная информ
 msgid "We provide support only in English."
 msgstr "Мы предоставляем поддержку только на английской языке."
 
+#. Example: You can download is <a>here</a>
 msgid "here"
 msgstr "здесь"
 
@@ -328,6 +329,17 @@ msgstr ""
 msgid "separator"
 msgstr "разделитель"
 
+msgid ""
+"\"If selected role or user does not have some menu capabilities, menu will "
+"be hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility.\""
+msgstr ""
+
+#, fuzzy
+#| msgid "Item visible"
+msgid "All items are visible"
+msgstr "Виден"
+
 msgid "Collapse all"
 msgstr "Свернуть все"
 
@@ -336,6 +348,9 @@ msgstr "Создать новый элемент"
 
 msgid "Expand all"
 msgstr "Развернуть все"
+
+msgid "Some items are hidden"
+msgstr ""
 
 msgid "Thank you for purchasing!"
 msgstr "Спасибо Вам за покупку!"
@@ -372,9 +387,6 @@ msgstr "Настройки сброшены."
 
 #~ msgid "Hide and deny access"
 #~ msgstr "Скрыть и запретить доступ"
-
-#~ msgid "Item visible"
-#~ msgstr "Виден"
 
 #~ msgid ""
 #~ "We make our hard work to do your life with WordPress better.\n"

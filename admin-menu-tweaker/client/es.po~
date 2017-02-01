@@ -164,6 +164,18 @@ msgstr ""
 msgid "Visible"
 msgstr ""
 
+msgid "Color:"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Style:"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
 msgid "ICON"
 msgstr ""
 
@@ -189,18 +201,6 @@ msgid "URL of image"
 msgstr ""
 
 msgid "Upload image"
-msgstr ""
-
-msgid "Color:"
-msgstr ""
-
-msgid "Design"
-msgstr ""
-
-msgid "Style:"
-msgstr ""
-
-msgid "Width:"
 msgstr ""
 
 msgid "Hidden"
@@ -281,6 +281,7 @@ msgstr ""
 msgid "We provide support only in English."
 msgstr ""
 
+#. Example: You can download is <a>here</a>
 msgid "here"
 msgstr ""
 
@@ -295,6 +296,15 @@ msgstr ""
 msgid "separator"
 msgstr ""
 
+msgid ""
+"\"If selected role or user does not have some menu capabilities, menu will "
+"be hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility.\""
+msgstr ""
+
+msgid "All items are visible"
+msgstr ""
+
 msgid "Collapse all"
 msgstr ""
 
@@ -302,6 +312,9 @@ msgid "Create new element"
 msgstr ""
 
 msgid "Expand all"
+msgstr ""
+
+msgid "Some items are hidden"
 msgstr ""
 
 msgid "Thank you for purchasing!"
